@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/intervarlos/bin/Debug/intervarlos.exe
+/Users/luisnayib/Projects/inicioBucles/intervarlos/bin/Debug/intervarlos.pdb
+/Users/luisnayib/Projects/inicioBucles/intervarlos/obj/anycpu/Debug/intervarlos.exe
+/Users/luisnayib/Projects/inicioBucles/intervarlos/obj/anycpu/Debug/intervarlos.pdb

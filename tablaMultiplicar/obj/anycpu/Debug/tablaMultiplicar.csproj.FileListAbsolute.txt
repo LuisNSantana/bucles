@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/tablaMultiplicar/bin/Debug/tablaMultiplicar.exe
+/Users/luisnayib/Projects/inicioBucles/tablaMultiplicar/bin/Debug/tablaMultiplicar.pdb
+/Users/luisnayib/Projects/inicioBucles/tablaMultiplicar/obj/anycpu/Debug/tablaMultiplicar.exe
+/Users/luisnayib/Projects/inicioBucles/tablaMultiplicar/obj/anycpu/Debug/tablaMultiplicar.pdb

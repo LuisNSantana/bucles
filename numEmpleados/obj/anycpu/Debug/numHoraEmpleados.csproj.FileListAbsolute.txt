@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/numEmpleados/bin/Debug/numEmpleados.exe
+/Users/luisnayib/Projects/inicioBucles/numEmpleados/bin/Debug/numEmpleados.pdb
+/Users/luisnayib/Projects/inicioBucles/numEmpleados/obj/anycpu/Debug/numEmpleados.exe
+/Users/luisnayib/Projects/inicioBucles/numEmpleados/obj/anycpu/Debug/numEmpleados.pdb

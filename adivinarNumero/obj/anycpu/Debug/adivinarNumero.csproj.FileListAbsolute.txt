@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/adivinarNumero/bin/Debug/adivinarNumero.exe
+/Users/luisnayib/Projects/inicioBucles/adivinarNumero/bin/Debug/adivinarNumero.pdb
+/Users/luisnayib/Projects/inicioBucles/adivinarNumero/obj/anycpu/Debug/adivinarNumero.exe
+/Users/luisnayib/Projects/inicioBucles/adivinarNumero/obj/anycpu/Debug/adivinarNumero.pdb

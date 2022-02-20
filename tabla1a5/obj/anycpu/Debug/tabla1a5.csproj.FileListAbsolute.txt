@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/tabla1a5/bin/Debug/tabla1a5.exe
+/Users/luisnayib/Projects/inicioBucles/tabla1a5/bin/Debug/tabla1a5.pdb
+/Users/luisnayib/Projects/inicioBucles/tabla1a5/obj/anycpu/Debug/tabla1a5.exe
+/Users/luisnayib/Projects/inicioBucles/tabla1a5/obj/anycpu/Debug/tabla1a5.pdb

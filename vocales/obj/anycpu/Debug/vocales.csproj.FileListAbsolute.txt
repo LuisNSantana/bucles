@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/vocales/bin/Debug/vocales.exe
+/Users/luisnayib/Projects/inicioBucles/vocales/bin/Debug/vocales.pdb
+/Users/luisnayib/Projects/inicioBucles/vocales/obj/anycpu/Debug/vocales.exe
+/Users/luisnayib/Projects/inicioBucles/vocales/obj/anycpu/Debug/vocales.pdb

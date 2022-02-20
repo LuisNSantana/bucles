@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/doWhile/bin/Debug/doWhile.exe
+/Users/luisnayib/Projects/inicioBucles/doWhile/bin/Debug/doWhile.pdb
+/Users/luisnayib/Projects/inicioBucles/doWhile/obj/anycpu/Debug/doWhile.exe
+/Users/luisnayib/Projects/inicioBucles/doWhile/obj/anycpu/Debug/doWhile.pdb

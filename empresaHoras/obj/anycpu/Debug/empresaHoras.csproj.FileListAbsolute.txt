@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/empresaHoras/bin/Debug/empresaHoras.exe
+/Users/luisnayib/Projects/inicioBucles/empresaHoras/bin/Debug/empresaHoras.pdb
+/Users/luisnayib/Projects/inicioBucles/empresaHoras/obj/anycpu/Debug/empresaHoras.exe
+/Users/luisnayib/Projects/inicioBucles/empresaHoras/obj/anycpu/Debug/empresaHoras.pdb

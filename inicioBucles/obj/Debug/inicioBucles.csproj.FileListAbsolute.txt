@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/inicioBucles/inicioBucles/obj/Debug/inicioBucles.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/inicioBucles/inicioBucles/bin/Debug/inicioBucles.exe
+/Users/luisnayib/Projects/inicioBucles/inicioBucles/bin/Debug/inicioBucles.pdb
+/Users/luisnayib/Projects/inicioBucles/inicioBucles/obj/Debug/inicioBucles.exe
+/Users/luisnayib/Projects/inicioBucles/inicioBucles/obj/Debug/inicioBucles.pdb

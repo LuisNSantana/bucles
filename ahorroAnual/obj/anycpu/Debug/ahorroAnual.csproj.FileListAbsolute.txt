@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/ahorroAnual/bin/Debug/ahorroAnual.exe
+/Users/luisnayib/Projects/inicioBucles/ahorroAnual/bin/Debug/ahorroAnual.pdb
+/Users/luisnayib/Projects/inicioBucles/ahorroAnual/obj/anycpu/Debug/ahorroAnual.exe
+/Users/luisnayib/Projects/inicioBucles/ahorroAnual/obj/anycpu/Debug/ahorroAnual.pdb

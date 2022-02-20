@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/kmEncontrados/bin/Debug/kmEncontrados.exe
+/Users/luisnayib/Projects/inicioBucles/kmEncontrados/bin/Debug/kmEncontrados.pdb
+/Users/luisnayib/Projects/inicioBucles/kmEncontrados/obj/anycpu/Debug/kmEncontrados.exe
+/Users/luisnayib/Projects/inicioBucles/kmEncontrados/obj/anycpu/Debug/kmEncontrados.pdb

@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/minuteroSegundero/bin/Debug/minuteroSegundero.exe
+/Users/luisnayib/Projects/inicioBucles/minuteroSegundero/bin/Debug/minuteroSegundero.pdb
+/Users/luisnayib/Projects/inicioBucles/minuteroSegundero/obj/anycpu/Debug/minuteroSegundero.exe
+/Users/luisnayib/Projects/inicioBucles/minuteroSegundero/obj/anycpu/Debug/minuteroSegundero.pdb

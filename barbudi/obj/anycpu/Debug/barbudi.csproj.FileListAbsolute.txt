@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/barbudi/bin/Debug/barbudi.exe
+/Users/luisnayib/Projects/inicioBucles/barbudi/bin/Debug/barbudi.pdb
+/Users/luisnayib/Projects/inicioBucles/barbudi/obj/anycpu/Debug/barbudi.exe
+/Users/luisnayib/Projects/inicioBucles/barbudi/obj/anycpu/Debug/barbudi.pdb

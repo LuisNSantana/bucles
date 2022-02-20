@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/producto20meses/bin/Debug/producto20meses.exe
+/Users/luisnayib/Projects/inicioBucles/producto20meses/bin/Debug/producto20meses.pdb
+/Users/luisnayib/Projects/inicioBucles/producto20meses/obj/anycpu/Debug/producto20meses.exe
+/Users/luisnayib/Projects/inicioBucles/producto20meses/obj/anycpu/Debug/producto20meses.pdb

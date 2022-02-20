@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/numPrimo/bin/Debug/numPrimo.exe
+/Users/luisnayib/Projects/inicioBucles/numPrimo/bin/Debug/numPrimo.pdb
+/Users/luisnayib/Projects/inicioBucles/numPrimo/obj/anycpu/Debug/numPrimo.exe
+/Users/luisnayib/Projects/inicioBucles/numPrimo/obj/anycpu/Debug/numPrimo.pdb

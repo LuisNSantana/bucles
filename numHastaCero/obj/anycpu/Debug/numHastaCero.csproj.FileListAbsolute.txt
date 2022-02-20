@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/numHastaCero/bin/Debug/numHastaCero.exe
+/Users/luisnayib/Projects/inicioBucles/numHastaCero/bin/Debug/numHastaCero.pdb
+/Users/luisnayib/Projects/inicioBucles/numHastaCero/obj/anycpu/Debug/numHastaCero.exe
+/Users/luisnayib/Projects/inicioBucles/numHastaCero/obj/anycpu/Debug/numHastaCero.pdb

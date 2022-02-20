@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/piramide/bin/Debug/piramide.exe
+/Users/luisnayib/Projects/inicioBucles/piramide/bin/Debug/piramide.pdb
+/Users/luisnayib/Projects/inicioBucles/piramide/obj/anycpu/Debug/piramide.exe
+/Users/luisnayib/Projects/inicioBucles/piramide/obj/anycpu/Debug/piramide.pdb

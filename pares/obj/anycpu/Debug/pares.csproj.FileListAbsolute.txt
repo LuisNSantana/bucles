@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/pares/bin/Debug/pares.exe
+/Users/luisnayib/Projects/inicioBucles/pares/bin/Debug/pares.pdb
+/Users/luisnayib/Projects/inicioBucles/pares/obj/anycpu/Debug/pares.exe
+/Users/luisnayib/Projects/inicioBucles/pares/obj/anycpu/Debug/pares.pdb

@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/numporConsola/bin/Debug/numporConsola.exe
+/Users/luisnayib/Projects/inicioBucles/numporConsola/bin/Debug/numporConsola.pdb
+/Users/luisnayib/Projects/inicioBucles/numporConsola/obj/anycpu/Debug/numporConsola.exe
+/Users/luisnayib/Projects/inicioBucles/numporConsola/obj/anycpu/Debug/numporConsola.pdb

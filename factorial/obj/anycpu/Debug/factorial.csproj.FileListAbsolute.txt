@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/inicioBucles/factorial/bin/Debug/factorial.exe
+/Users/luisnayib/Projects/inicioBucles/factorial/bin/Debug/factorial.pdb
+/Users/luisnayib/Projects/inicioBucles/factorial/obj/anycpu/Debug/factorial.exe
+/Users/luisnayib/Projects/inicioBucles/factorial/obj/anycpu/Debug/factorial.pdb
